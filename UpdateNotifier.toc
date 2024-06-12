@@ -1,0 +1,7 @@
+## Interface: 100207, 110000
+## Title: Update Notifier
+## Notes: Checks for out-of-date addons
+## Author: onokena
+## Version: 2.1
+
+UpdateNotifier.lua
